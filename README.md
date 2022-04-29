@@ -30,7 +30,11 @@ The Lattice Small-world Transition Model (LSwTM) utilizes the fractal nature of 
 
 The boxplots of four network metrics are displayed, which show the distribution of the given metric for different parameter settings of the Repulsion based fractal model. Each box is based on 30 generations of the model with the given parameters. Subfigure **(a)** is the boxplot of the normalized diameter (i.e. diameter divided by the logarithm of the size), **(b)** the average degree, **(c)**  the assortativity coefficient and **(d)** the average clustering coefficient. The parameter settings (*x*-axis) are shown in increasing order with respect to the size of the resulting networks.
 
+The examined characteristics can be considered stable because the values of the metrics do not differ significantly for the different realisations of the networks. The average clustering coefficient, and also the maximum of the eigenvector centralities may not seem to be as consistent as the other metrics, but the range, in which the values vary is still quite small. Furthermore, the fluctuation decreases for larger networks, i.e., when the model performs more iterations. Overall, we can conclude that the main characteristics of the network model for a given parameter setting do not depend heavily on the exact realisations.
+
 ### Stability analysis of the LSwTM
 ![Stability analysis of the LSwTM](https://github.com/marcessz/fractal-network-models/blob/main/figures/LSwTM_stability.png)
 
 The distribution of four network metrics for different parameter settings of the LSwTM. Each boxplot is based on 30 generations of the model with the given parameters. Subfigure **(a)** is the boxplot of the normalized diameter (i.e. diameter divided by the logarithm of the size), **(b)** the average degree, **(c)** the assortativity coefficient and **(d)** the average clustering coefficient. The parameter settings (*x*-axis) are shown in increasing order with respect to the size of the resulting networks.
+
+It can be seen that for a given parameter setting the generated networks have completely similar characteristics in terms of normalized diameter, average degree, assortativity and average clustering coefficient.
