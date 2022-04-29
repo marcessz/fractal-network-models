@@ -23,3 +23,14 @@ The Lattice Small-world Transition Model (LSwTM) utilizes the fractal nature of 
 
 
 ## Supplementary material
+
+### Stability analysis of the RBF model
+
+![Stability analysis of the RBFM](https://github.com/marcessz/fractal-network-models/blob/main/figures/RBFM_stability.png)
+
+The boxplots of four network metrics are displayed, which show the distribution of the given metric for different parameter settings of the Repulsion based fractal model. Each box is based on 30 generations of the model with the given parameters. Subfigure **(a)** is the boxplot of the normalized diameter (i.e. diameter divided by the logarithm of the size), **(b)** the average degree, **(c)**  the assortativity coefficient and **(d)** the average clustering coefficient. The parameter settings (*x*-axis) are shown in increasing order with respect to the size of the resulting networks.
+
+### Stability analysis of the LSwTM
+![Stability analysis of the LSwTM](https://github.com/marcessz/fractal-network-models/blob/main/figures/LSwTM_stability.png)
+
+The distribution of four network metrics for different parameter settings of the LSwTM. Each boxplot is based on 30 generations of the model with the given parameters. Subfigure **(a)** is the boxplot of the normalized diameter (i.e. diameter divided by the logarithm of the size), **(b)** the average degree, **(c)** the assortativity coefficient and **(d)** the average clustering coefficient. The parameter settings (*x*-axis) are shown in increasing order with respect to the size of the resulting networks.
