@@ -1,10 +1,10 @@
 # Fractal network models
-Supplementary material for the work titled *Two novel network models to better understand the origins of fractality* - E. Zakar-Polyák, M. Nagy, & R. Molontay
+Supplementary material for the work titled *Investigating the Origins of Fractality Based on Two Novel Fractal Network Models* - E. Zakar-Polyák, M. Nagy, & R. Molontay
 
 ## How to Cite
 ```
-@misc{zakarpolyak2022two,
-  title={Two novel network models to better understand the origins of fractality},
+@misc{zakarpolyak2022investigating,
+  title={Investigating the Origins of Fractality Based on Two Novel Fractal Network Models},
   author={Zakar-Polyák, Enikő and Nagy, Marcell and Molontay, Roland},
   year={2022}
 }
