@@ -3,6 +3,10 @@ Supplementary material for the work titled *Investigating the Origins of Fractal
 
 The paper can be found at [this arxiv link](https://arxiv.org/abs/2210.15505)
 
+## Codes
+
+The codes can be found in the [codes](https://github.com/marcessz/fractal-networks/tree/main/codes) folder of the [marcessz/fractal-networks](https://github.com/marcessz/fractal-networks/) repository.
+
 ## How to Cite
 ```
 @article{zakarpolyak2022investigating,
