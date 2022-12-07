@@ -1,11 +1,14 @@
 # Fractal network models
 Supplementary material for the work titled *Investigating the Origins of Fractality Based on Two Novel Fractal Network Models* - E. Zakar-Polyák, M. Nagy, & R. Molontay
 
+The paper can be found at [this arxiv link](https://arxiv.org/abs/2210.15505)
+
 ## How to Cite
 ```
-@misc{zakarpolyak2022investigating,
+@article{zakarpolyak2022investigating,
   title={Investigating the Origins of Fractality Based on Two Novel Fractal Network Models},
-  author={Zakar-Polyák, Enikő and Nagy, Marcell and Molontay, Roland},
+  author={Zakar-Poly\'ak, Enik\H{o} and Nagy, Marcell and Molontay, Roland},
+  journal={arXiv preprint arXiv:2210.15505},
   year={2022}
 }
 ```
