@@ -1,3 +1,5 @@
+[![arXiv](https://img.shields.io/badge/arXiv-2210.15505-b31b1b.svg?style=flat)](https://arxiv.org/abs/2210.15505)
+
 # Fractal network models
 Supplementary material for the work titled *Investigating the Origins of Fractality Based on Two Novel Fractal Network Models* - E. Zakar-Polyák, M. Nagy, & R. Molontay
 
